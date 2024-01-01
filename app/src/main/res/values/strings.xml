@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="addN">Add Note</string>
+    <string name="list">Note</string>
+    <string name="textMultiLine">Enter your note!</string>
+    <string name="NewNote">New Note</string>
+
+
+    <string name="lbl_new_note_title">New Note</string>
+
+    <string name="lbl_edit_note_title">Edit Note</string>
+
+
+</resources>
