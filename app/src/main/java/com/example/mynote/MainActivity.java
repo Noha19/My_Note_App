@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
         Button btn_addNote =  findViewById(R.id.button);
         recyclerView = findViewById(R.id.recyclerView);
 
-
 //----------------------------setAdapter-------------------------------------------------------
         RecyclerView.LayoutManager myLayoutManager = new LinearLayoutManager(getApplicationContext());
         recyclerView.setLayoutManager(myLayoutManager);
